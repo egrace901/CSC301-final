@@ -1,7 +1,6 @@
 <?php
 
 include('config.php');
-include('functions.php');
 
 $term = get('search-term');
 

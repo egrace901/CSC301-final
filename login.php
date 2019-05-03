@@ -2,8 +2,6 @@
 
 include('config.php');
 
-include('functions.php');
-
 // If form submitted:
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 

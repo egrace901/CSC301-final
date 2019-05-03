@@ -2,8 +2,6 @@
 
 
 include('config.php');
-include('functions.php');
-
 
 $animalid = get('animalid');
 $name = get('name');

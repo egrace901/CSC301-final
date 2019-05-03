@@ -2,7 +2,6 @@
 
 include('config.php');
 
-include('functions.php');
 $cart = $_SESSION['cart'];
 
 ?>
