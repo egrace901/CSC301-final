@@ -1,0 +1,27 @@
+2 forms for add/edit functionality
+- add review
+- add user
+
+listing page that is searchable 
+- search fish page
+
+session variables
+- login
+
+3 tables, 2 related 
+- animal
+- animal type
+- customers
+- animal reviews
+
+join statement
+- animals and animal type
+
+class
+- shopping cart
+
+function or class method
+- get/set
+
+properly print variables in html
+project on github
